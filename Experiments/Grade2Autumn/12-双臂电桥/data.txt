@@ -1,0 +1,14 @@
+# constantan stick diameter, mm, delta 1mm
+e -3
+5.467   5.472   5.471   5.472   5.469   5.466
+#
+# aluminium stick diameter, mm, delta 1mm
+e -3
+5.471   5.462   5.467   5.469   5.464   5.461
+# R / Omega, 3 pairs, 3 mesurements
+1602    1602    1606
+1609    1609    1605
+1206    1206    1206
+1204    1203    1203
+549     553     549
+553     553     552
